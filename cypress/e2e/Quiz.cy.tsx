@@ -7,7 +7,7 @@
 // })
 
 describe('Complete Quiz Game', () => {
-  it('Click Start Quiz', () => {
+  it('Click Start Quiz and finish game', () => {
     cy.visit("http://127.0.0.1:3001")
 
     cy.get("button").contains("Start Quiz").click()
