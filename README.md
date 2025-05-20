@@ -10,4 +10,4 @@ This application is simple quiz of ten questions. It includes tests to ensure it
 
 ## Link to Walkthrough Video
 
-Walkthrough
+https://drive.google.com/file/d/1jw03BimPXXGy-W9bOwGwGAgrwqto88qT/view?usp=sharing
